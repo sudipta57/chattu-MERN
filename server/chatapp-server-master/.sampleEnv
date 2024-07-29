@@ -1,0 +1,8 @@
+MONGO_URI = mongodb+srv://ghoramiswapna32:3hbiYcvYbV4DvVSQ@ghoramiswapna32.bcx6zqq.mongodb.net/?retryWrites=true&w=majority&appName=ghoramiswapna32
+JWT_SECRET=djgjkdshbgjkhfnjksdfhbnsjkdfsdhjfk
+ADMIN_SECRET_KEY= sample admin kjey
+NODE_ENV = DEVELOPMENT
+CLIENT_URL = frontend url
+CLOUDINARY_CLOUD_NAME= dbnupymrm
+CLOUDINARY_API_KEY = 938615888946979
+CLOUDINARY_API_SECRET =  3dslIvxuFdEvwYc7meLOiQvZZ3U
